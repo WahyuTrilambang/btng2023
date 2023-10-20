@@ -1,0 +1,16 @@
+* {
+  font-family: "Poppins", sans-serif;
+}
+
+.bg-light {
+  background-color: #edf4ff !important;
+}
+
+#home {
+  background-image: url(https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2023/06/19/Onic-Esports-388151729.jpg);
+  height: 800px;
+  position: relative;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
